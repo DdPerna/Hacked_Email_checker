@@ -37,7 +37,7 @@ do
                                 # format output
                                 OUTPUT_DETAILS=$( echo "$OUTPUT" | grep details | cut -d\" -f4)
 
-                                echo "email: $EMAIL file results: $RESULTS web results: $OUTPUT_RESULTS Details: $OUTPUT_DETAILS"
+                                # echo "email: $EMAIL file results: $RESULTS web results: $OUTPUT_RESULTS Details: $OUTPUT_DETAILS"
 
                                 sed -i -e ''"$COUNT"'s/'"$RESULTS"'/'"$OUTPUT_RESULTS"'/g' $FILE
 
