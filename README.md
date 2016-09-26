@@ -26,3 +26,10 @@ The template.txt file is a generic email response sent to the affected email acc
 
 ## Future Plans
 
+Since there is a limit on the number of API calls per day, checking hundreds of emails is not possible. One solution to this problem would be to maintain your own database of the leaked information, then re-write the bash script. Most of this information is publically available and can be found through a simple google search. 
+
+There are two sites that are great sources for checking your email and have live feeds of leaks.
+
+https://hacked-emails.com/
+
+https://haveibeenpwned.com/
