@@ -1,0 +1,12 @@
+
+This is the automated Email Checker notifying you of a possible leak of your email information.
+
+This information is by provided by: https://hacked-emails.com/
+
+According to their records, your email has been involved in a possible leak, that may compromise your associated information.
+
+Information about the leak is provided below, but may require additional research for further details on its extent.
+
+You may want to change the password associated with this email and check any other accounts that may be reusing the same password. 
+
+For questions or concerns please contact your administrator.
