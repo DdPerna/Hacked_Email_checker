@@ -1,0 +1,5 @@
+example1@blah.com,results=0
+example2@blah.com,results=0
+example3@blah.com,results=0
+example4@blah.com,results=0
+example5@blah.com,results=0
